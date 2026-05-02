@@ -5,9 +5,17 @@ Apply the Huffman and Shannon-Fano to this source.
 Show that by drawing the tree diagram, and 
 Calculate the average code word length, entropy, variance, redundancy, and efficiency.
 # Tools Required:
-
-Python: A versatile programming language used for scientific computing and signal processing. NumPy: A powerful numerical library in Python for performing array-based operations and mathematical computations. Matplotlib: A plotting library for generating high-quality graphs and visualizations of data, essentialfor demonstrating the sampling process.
-
+```
+Tools Required
+Google Colab
+Python
+NumPy Library
+Matplotlib Library
+Internet Connection
+Computer / Laptop
+```
+# Theory
+Huffman coding and Shannon–Fano coding are lossless data compression techniques used to represent information efficiently by assigning variable-length binary codes to symbols based on their probabilities. Symbols with higher probability are given shorter codes, while those with lower probability receive longer codes, reducing the overall data size. Entropy defines the minimum number of bits required to encode the source without loss. Huffman coding produces an optimal prefix code with the least average codeword length, whereas Shannon–Fano coding is simpler but may not always be optimal. Parameters such as average codeword length, efficiency, redundancy, and variance are used to evaluate the performance of these coding methods.
 
 # Program:
 
@@ -201,9 +209,10 @@ print("=" * 60)
 ```
 
 # Calculation:
-```
-Compare the manually calculated value and the observed practical value.
-```
+
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/d1799e3a-ff6d-4341-b995-d546526bc841" />
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/63c9962d-da86-4a24-aa3d-9cdb461029c9" />
+
 # Output
 
 <img width="812" height="883" alt="Screenshot 2026-04-29 090927" src="https://github.com/user-attachments/assets/d5096b39-3ae9-4f0d-9da7-db92ad5a0e30" />
