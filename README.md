@@ -209,9 +209,14 @@ print("=" * 60)
 ```
 
 # Calculation:
+Huffman :
 
 <img width="1005" height="1599" alt="image" src="https://github.com/user-attachments/assets/ca1b2133-11db-46bb-b81b-5401e17ace1b" />
 <img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/fe764a41-61de-4d08-abdd-94aedea65a04" />
+
+Shannon :
+
+<img width="1066" height="1600" alt="image" src="https://github.com/user-attachments/assets/1f9db44c-db9a-4d44-aeb4-50d48eb2d8c6" />
 
 
 # Output
